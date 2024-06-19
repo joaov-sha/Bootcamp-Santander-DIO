@@ -58,13 +58,13 @@ Se Preparando Para uma Entrevista | 1 hora | [Certificado de Conclusão]( "Link 
 ## Desafios de Projeto e Código
 Módulo | Nome | Duração | Certificado
 -------|------|---------|------------
-Módulo 1 | Crie um Portfólio Vencedor | 1 hora | [Certificado de Conclusão](https://www.dio.me/certificate/6BGUOYQS/share "Link para o certificado de conclusão")
-Módulo 2 | Simulando Uma Conta Bancária Através do Terminal/Console | 1 hora | [Certificado de Conclusão]( "Link para o certificado de conclusão")
-Módulo 2 | Criando Um Pequeno Sistema Para Validação de Processo Seletivo | 1 hora | [Certificado de Conclusão]( "Link para o certificado de conclusão")
-Módulo 2 | Condições, Loops e Exceções na Prática com Java | 1 hora | [Certificado de Conclusão]( "Link para o certificado de conclusão")
-Módulo 3 | Modelando um iPhone com UML: Funções de Músicas, Chamadas e Internet | 2 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
-Módulo 3 | Criando um Banco Digital com Java e Orientação a Objetos | 2 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
-Módulo 3 | Abstraindo um Bootcamp Usando Orientação a Objetos em Java | 2 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
-Módulo 3 | Orientação a Objetos na Prática com Java | 3 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
-Módulo 5 | Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework | 2 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
-Módulo 5 | Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway | 3 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
+1 | Crie um Portfólio Vencedor | 1 hora | [Certificado de Conclusão](https://www.dio.me/certificate/6BGUOYQS/share "Link para o certificado de conclusão")
+2 | Simulando Uma Conta Bancária Através do Terminal/Console | 1 hora | [Certificado de Conclusão]( "Link para o certificado de conclusão")
+2 | Criando Um Pequeno Sistema Para Validação de Processo Seletivo | 1 hora | [Certificado de Conclusão]( "Link para o certificado de conclusão")
+2 | Condições, Loops e Exceções na Prática com Java | 1 hora | [Certificado de Conclusão]( "Link para o certificado de conclusão")
+3 | Modelando um iPhone com UML: Funções de Músicas, Chamadas e Internet | 2 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
+3 | Criando um Banco Digital com Java e Orientação a Objetos | 2 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
+3 | Abstraindo um Bootcamp Usando Orientação a Objetos em Java | 2 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
+3 | Orientação a Objetos na Prática com Java | 3 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
+5 | Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework | 2 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
+5 | Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway | 3 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
