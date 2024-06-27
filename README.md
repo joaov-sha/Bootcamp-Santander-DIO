@@ -15,6 +15,7 @@ Curso | Duração | Certificado
 Ambiente de Desenvolvimento Java | 1 hora | [Certificado de Conclusão](https://www.dio.me/certificate/YM15CDCK/share "Link para o certificado de conclusão")
 Aprendendo a Sintaxe Java | 5 horas | [Certificado de Conclusão](https://www.dio.me/certificate/8V2ZIC9N/share "Link para o certificado de conclusão")
 Introdução e Estruturas Condicionais em Java| 1 hora | [Certificado de Conclusão](https://www.dio.me/certificate/SJVNGVKG/share "Link para o certificado de conclusão")
+Estruturas de Repetição em Java | 1 hora | [Certificado de Conclusão](https://www.dio.me/certificate/GRPNNDQN/share "Link para o certificado de conclusão")
 Java e Tratamento de Exceções | 1 hora | [Certificado de Conclusão]( "Link para o certificado de conclusão")
 Debugging Java | 1 hora | [Certificado de Conclusão]( "Link para o certificado de conclusão")
 
