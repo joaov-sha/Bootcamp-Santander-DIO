@@ -14,7 +14,7 @@ Curso | Duração | Certificado
 ------|---------|------------
 Ambiente de Desenvolvimento Java | 1 hora | [Certificado de Conclusão](https://www.dio.me/certificate/YM15CDCK/share "Link para o certificado de conclusão")
 Aprendendo a Sintaxe Java | 5 horas | [Certificado de Conclusão](https://www.dio.me/certificate/8V2ZIC9N/share "Link para o certificado de conclusão")
-Introdução e Estruturas Condicionais em Java| 1 hora | [Certificado de Conclusão]( "Link para o certificado de conclusão")
+Introdução e Estruturas Condicionais em Java| 1 hora | [Certificado de Conclusão](https://www.dio.me/certificate/SJVNGVKG/share "Link para o certificado de conclusão")
 Java e Tratamento de Exceções | 1 hora | [Certificado de Conclusão]( "Link para o certificado de conclusão")
 Debugging Java | 1 hora | [Certificado de Conclusão]( "Link para o certificado de conclusão")
 
@@ -59,7 +59,7 @@ Se Preparando Para uma Entrevista | 1 hora | [Certificado de Conclusão]( "Link 
 Módulo | Nome | Duração | Certificado
 -------|------|---------|------------
 1 | Crie um Portfólio Vencedor | 1 hora | [Certificado de Conclusão](https://www.dio.me/certificate/6BGUOYQS/share "Link para o certificado de conclusão")
-2 | Simulando Uma Conta Bancária Através do Terminal/Console | 1 hora | [Certificado de Conclusão]( "Link para o certificado de conclusão")
+2 | Simulando Uma Conta Bancária Através do Terminal/Console | 1 hora | [Certificado de Conclusão](https://www.dio.me/certificate/AYROAZ0S/share "Link para o certificado de conclusão")
 2 | Criando Um Pequeno Sistema Para Validação de Processo Seletivo | 1 hora | [Certificado de Conclusão]( "Link para o certificado de conclusão")
 2 | Condições, Loops e Exceções na Prática com Java | 1 hora | [Certificado de Conclusão]( "Link para o certificado de conclusão")
 3 | Modelando um iPhone com UML: Funções de Músicas, Chamadas e Internet | 2 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
