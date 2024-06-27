@@ -19,7 +19,7 @@ public class Contador {
     }
 
     public static void contar(int numeroUm, int numeroDois) throws ParametrosInvalidosException{
-        if(numeroDois > numeroUm){
+        if(numeroDois < numeroUm){
             throw new ParametrosInvalidosException("O segundo parâmetro deve ser maior que o primeiro");
         }else{
             for(int i = numeroUm; i <= numeroDois; i++){
