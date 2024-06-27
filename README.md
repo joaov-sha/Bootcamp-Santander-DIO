@@ -57,12 +57,12 @@ Transformando Seu Conhecimento em Artigos Técnicos | 1 hora | [Certificado de C
 Se Preparando Para uma Entrevista | 1 hora | [Certificado de Conclusão]( "Link para o certificado de conclusão")
 
 ## Desafios de Projeto e Código
-Módulo | Nome | Duração | Certificado
+Módulo | Nome | Duração | Certificado ou Código
 -------|------|---------|------------
 1 | Crie um Portfólio Vencedor | 1 hora | [Certificado de Conclusão](https://www.dio.me/certificate/6BGUOYQS/share "Link para o certificado de conclusão")
 2 | Simulando Uma Conta Bancária Através do Terminal/Console | 1 hora | [Certificado de Conclusão](https://www.dio.me/certificate/AYROAZ0S/share "Link para o certificado de conclusão")
-2 | Criando Um Pequeno Sistema Para Validação de Processo Seletivo | 1 hora | [Certificado de Conclusão]( "Link para o certificado de conclusão")
-2 | Condições, Loops e Exceções na Prática com Java | 1 hora | [Certificado de Conclusão]( "Link para o certificado de conclusão")
+2 | Criando Um Pequeno Sistema Para Validação de Processo Seletivo | 1 hora | [Certificado de Conclusão](https://www.dio.me/certificate/NJH5J30M/share "Link para o certificado de conclusão")
+2 | Condições, Loops e Exceções na Prática com Java | 1 hora | [Repositório de Código]( "Link para o repositório de código com a solução")
 3 | Modelando um iPhone com UML: Funções de Músicas, Chamadas e Internet | 2 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
 3 | Criando um Banco Digital com Java e Orientação a Objetos | 2 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
 3 | Abstraindo um Bootcamp Usando Orientação a Objetos em Java | 2 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
