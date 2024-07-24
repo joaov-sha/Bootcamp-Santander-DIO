@@ -24,7 +24,7 @@ Curso | Duração | Certificado
 ------|---------|------------
 Fundamentos da Programação Orientada a Objetos em Java | 3 horas | [Certificado de Conclusão](https://www.dio.me/certificate/DVULWWNM/share "Link para o certificado de conclusão")
 Pilares da Programação Orientada a Objetos em Java | 2 horas | [Certificado de Conclusão](https://dio.me/certificate/S9WYO6US/share "Link para o certificado de conclusão")
-Conhecendo Collections em Java | 4 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
+Conhecendo Collections em Java | 4 horas | [Certificado de Conclusão](https://www.dio.me/certificate/6WHKQCP2/share "Link para o certificado de conclusão")
 Ganhando Produtividade com Stream API | 2 horas | [Certificado de Conclusão]( "Link para o certificado de conclusão")
 
 ## Módulo 4 - Testes e Gerenciamento de Dependências em Projetos Java
